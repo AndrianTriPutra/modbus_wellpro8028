@@ -1,4 +1,4 @@
-# modbus_wellpro8028
+# WellPro_Testing
 
 ## modpoll
 - ./modpoll -t3:int -b 9600 -p none -m rtu -a 1 -r 10 -c 1 /dev/ttyUSB0
